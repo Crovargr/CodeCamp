@@ -1,3 +1,3 @@
 # CodeCamp
-Some exercise results from the magical freeCodeCamp to practice Python :)
+Some exercise results from freeCodeCamp to practice Python :)
 Have a great day :)
